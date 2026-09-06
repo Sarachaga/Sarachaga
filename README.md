@@ -9,7 +9,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Apps I actively work on:
+## Featured project
+
+### Cloco
+Location-based social platform built with Java, Spring Boot, PostgreSQL, Swift/SwiftUI and Android.
+
+[→ Visit the Cloco organization](https://github.com/ClocoApp)
 
 
 <!--
